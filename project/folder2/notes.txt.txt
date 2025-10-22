@@ -1,0 +1,2 @@
+This is folder2.
+It contains notes for the Git homework.
