@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello from folder1!" << endl;
+    cout << "Updated version of folder1 code!" << endl;
     return 0;
 }
+
