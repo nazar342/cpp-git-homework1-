@@ -1,2 +1,0 @@
-This is folder1. 
-It contains information about the project.
